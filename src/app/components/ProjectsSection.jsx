@@ -11,7 +11,7 @@ const projectsData = [
     id: 1,
     title: "",
     description: "RadioCast - 2024 - Digitally Objects for Fast Prototyping",
-    image:  "/RadioImages/Pic2.png",
+    image:  "/src/app/RadioImages/Pic2.png",
     tag: ["All", "Web"],
     gitUrl: "",
     previewUrl: "./projectRadio",
